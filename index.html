@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- Topo com título e botão de tema -->
+        <div class="header">
+            <h1>Lista de Tarefas</h1>
+            <button id="toggleTheme">🌙</button>
+        </div>
+
+        <div class="input-area">
+            <input type="text" id="taskInput" placeholder="Digite sua tarefa">
+
+            <select id="prioritySelect">
+                <option value="baixa">Baixa</option>
+                <option value="media">Média</option>
+                <option value="alta">Alta</option>
+            </select>
+
+            <button id="addTaskBtn">Adicionar</button>
+        </div>
+
+        <select id="filtro">
+            <option value="todas">Todas</option>
+            <option value="alta">Alta</option>
+            <option value="media">Média</option>
+            <option value="baixa">Baixa</option>
+        </select>
+
+        <ul id="taskList"></ul>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
