@@ -54,7 +54,6 @@ Este projeto tem como objetivo:
 ├── index.html # Estrutura da aplicação
 ├── style.css # Estilização da interface
 └── script.js # Lógica da aplicação
-├── preview.png 
 └── README.md
 
 ---
@@ -103,15 +102,6 @@ A aplicação possui:
 - 🔄 Filtro por status (pendente/concluído)  
 - ☁️ Integração com backend (API)  
 - 👤 Sistema de login/autenticação  
-
----
-
-git add .
-git commit -m "add preview"
-git push
-
-## 📸 Preview
-![Preview do projeto](./preview.png)
 
 
 ---
