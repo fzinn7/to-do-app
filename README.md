@@ -35,7 +35,6 @@ Este projeto tem como objetivo:
 - 📊 Contador de tarefas (total e concluídas)  
 - 🌙☀️ Alternar entre modo Dark e Light  
 - 💾 Persistência de dados com LocalStorage  
-- 📱 Interface responsiva (mobile e desktop)  
 - ✨ Animações suaves  
 
 ---
