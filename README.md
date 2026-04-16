@@ -76,7 +76,7 @@ cd to-do-app
 
 O projeto está disponível online:
 
-👉 https://vercel.com/new/fzinn7s-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=to-do-1txdsdrt3-fzinn7s-projects.vercel.app&projectName=to-do-app&s=https%3A%2F%2Fgithub.com%2Ffzinn7%2Fto-do-app&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1&flow-id=4Oadnxrdc5KhY_AXF8IFn
+👉 https://to-do-app-lake-iota-18.vercel.app/
 
 
 
